@@ -182,13 +182,7 @@ Cricket-Analytics/
 │   ├── Batting_Pipeline.ipynb
 │   ├── Bowling_Pipeline.ipynb
 │
-├── models/
-│
 ├── images/
-│
-├── results/
-│
-├── requirements.txt
 │
 └── README.md
 ```

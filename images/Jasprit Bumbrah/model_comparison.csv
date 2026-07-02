@@ -1,0 +1,10 @@
+Model,MAE,RMSE,R2
+Stacking (RF+GB+DT->Ridge),1.0031,1.411,-0.12
+Lasso Regression,1.0243,1.4277,-0.1466
+SVR (RBF),1.0965,1.4687,-0.2133
+SARIMAX,1.1199,1.5145,-0.2902
+Gradient Boosting,1.2285,1.6233,-0.4823
+Random Forest,1.3083,1.6917,-0.6099
+Ridge Regression,1.2937,1.7273,-0.6783
+Linear Regression,1.3288,1.7664,-0.7551
+Decision Tree,1.5183,2.0225,-1.3009

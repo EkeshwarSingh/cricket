@@ -246,9 +246,8 @@ Babasaheb Bhimrao Ambedkar University, Lucknow
 
 📧 Email: singhekesh11011@gmail.com
 
-🔗 LinkedIn: *(Add your LinkedIn URL)*
+🔗 LinkedIn: [*(Add your LinkedIn URL)*](https://www.linkedin.com/in/ekeshwarsingh/)
 
-🐙 GitHub: *(Add your GitHub Profile URL)*
 
 ---
 
